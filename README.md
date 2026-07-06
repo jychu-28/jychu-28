@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Genomics-blue">
-  <img src="https://img.shields.io/badge/Focus-Ultra--large%20genomes-green">
-  <img src="https://img.shields.io/badge/Code-Shell%20%7C%20Python-orange">
+  <img src="https://img.shields.io/badge/Bioinformatics-green">
+  <img src="https://img.shields.io/badge/Codex-Shell%20%7C%20Python-orange">
 </p>
 
 ---
