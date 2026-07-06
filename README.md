@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm JYChu 👋</h1>
 
 <p align="center">
-  <b>Student @ HZAU</b><br>
-  Genomics · Genome Collinearity · Bioinformatics · Peony Genome Analysis
+  <b>PhD @ HZAU</b><br>
+  Genomics · multi-omics · Bioinformatics · server administration
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🔬 Research Interests
 
 - **Genome analysis** — detecting large-scale synteny and structural variation between genomes
-- **plant genomes** — developing practical workflows for genomes with chromosomes larger than 2 Gb
+- **animala/plant genomes** — developing practical workflows for genomes with chromosomes larger than 2 Gb
 - **Bioinformatics pipelines** — building reproducible workflows for genome comparison and visualization
 
 ---
