@@ -15,9 +15,9 @@
 
 ## 🔬 Research Interests
 
-- **Genome analysis** — detecting large-scale synteny and structural variation between genomes
-- **animala/plant genomes** — developing practical workflows for genomes with chromosomes larger than 2 Gb
-- **Bioinformatics pipelines** — building reproducible workflows for genome comparison and visualization
+- **Genome analysis** — analyzing genome structure, synteny, and genetic variation
+- **animala/plant genomes** — analyzing large and complex animal and plant genomes
+- **Bioinformatics pipelines** — developing reproducible pipelines for genomic data processing, analysis, and visualization
 
 ---
 
