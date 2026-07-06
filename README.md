@@ -15,9 +15,8 @@
 
 ## 🔬 Research Interests
 
-- **Genome collinearity analysis** — detecting large-scale synteny and structural variation between genomes
-- **Ultra-large plant genomes** — developing practical workflows for genomes with chromosomes larger than 2 Gb
-- **Peony genome analysis** — using *Paeonia* as an example for chromosome-scale comparative genomics
+- **Genome analysis** — detecting large-scale synteny and structural variation between genomes
+- **plant genomes** — developing practical workflows for genomes with chromosomes larger than 2 Gb
 - **Bioinformatics pipelines** — building reproducible workflows for genome comparison and visualization
 
 ---
@@ -27,9 +26,6 @@
 | Project | Description | Tools |
 |---|---|---|
 | [SyRI-genome-collinearity-pipeline](https://github.com/jychu-28/SyRI-genome-collinearity-pipeline) | A chunk-based collinearity plotting pipeline for ultra-large peony genomes | minimap2 · SyRI · plotsr · Shell · Python |
-| Genome Analysis | Personal project board for organizing genome analysis workflows | GitHub Projects |
-| Peony Comparative Genomics | Comparative genome analysis for *Paeonia* species | FASTA · PAF · SyRI |
-
 ---
 
 ## 🧰 Tech Stack
