@@ -35,9 +35,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/minimap2-genome%20alignment-blue">
-  <img src="https://img.shields.io/badge/SyRI-structural%20variation-purple">
-  <img src="https://img.shields.io/badge/plotsr-collinearity%20plot-green">
+  <img src="https://img.shields.io/badge/codex-blue">
+  <img src="https://img.shields.io/badge/chatgpt-green">
 </p>
 
 ---
