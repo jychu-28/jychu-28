@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>PhD @ HZAU</b><br>
-  Genomics · multi-omics · Bioinformatics · server administration
+  Genomics · multi-omics · Bioinformatics · Server Administration
 </p>
 
 <p align="center">
