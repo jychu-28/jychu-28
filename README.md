@@ -25,7 +25,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [SyRI-genome-collinearity-pipeline](https://github.com/jychu-28/SyRI-genome-collinearity-pipeline) | A chunk-based collinearity plotting pipeline for ultra-large genomes | minimap2 · SyRI · plotsr · Shell · Python |
+| [ChunkCol](https://github.com/jychu-28/ChunkCol) | A chunk-based collinearity plotting pipeline for ultra-large genomes | minimap2 · SyRI · plotsr · Shell · Python |
 ---
 
 ## 🧰 Tech Stack
