@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm JYChu 👋</h1>
 
 <p align="center">
-  <b>PhD @ HZAU</b><br>
+  <b>PhD@HZAU</b><br>
   Genomics · multi-omics · Bioinformatics · Server Administration
 </p>
 
