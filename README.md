@@ -16,7 +16,7 @@
 ## 🔬 Research Interests
 
 - **Genome analysis** — analyzing genome structure, synteny, and genetic variation
-- **animala/plant genomes** — analyzing large and complex animal and plant genomes
+- **Animal/Plant genomes** — analyzing large and complex animal and plant genomes
 - **Bioinformatics pipelines** — developing reproducible pipelines for genomic data processing, analysis, and visualization
 
 ---
